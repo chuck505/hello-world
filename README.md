@@ -1,2 +1,5 @@
 # hello-world
-Lets figure this shit out
+# fibinachi
+# sequence i = 1
+# while i =< 100 
+
